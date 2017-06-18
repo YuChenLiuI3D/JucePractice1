@@ -1,2 +1,3 @@
-./NewProject/Builds/*
-./JuceLibraryCode/*
+NewProject/Builds/*
+JuceLibraryCode/*
+NewProject/Builds/VisualStudio2015/*
